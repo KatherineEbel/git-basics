@@ -1,2 +1,2 @@
 # README #
-+ practice using git and github +
++ practice using git and github
